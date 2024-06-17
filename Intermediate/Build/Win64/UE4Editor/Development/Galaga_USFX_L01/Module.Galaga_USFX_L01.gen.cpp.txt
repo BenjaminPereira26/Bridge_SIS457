@@ -1,0 +1,107 @@
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L01\Definitions.Galaga_USFX_L01.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/CapsulaBridge.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/CapsulaBridge.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01\CapsulaEnergia.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\CapsulaEnergia.generated.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\CapsulaBridge.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/CapsulaEnergia.gen.cpp
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/CapsulaEnergia100pts.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/CapsulaEnergia100pts.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\CapsulaEnergia100pts.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/CapsulaEnergia200pts.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/CapsulaEnergia200pts.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\CapsulaEnergia200pts.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/CapsulaEnergia50pts.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/CapsulaEnergia50pts.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\CapsulaEnergia50pts.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/Galaga_USFX_L01.init.gen.cpp
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/Galaga_USFX_L01GameMode.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/Galaga_USFX_L01GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\Galaga_USFX_L01GameMode.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/Galaga_USFX_L01Pawn.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/Galaga_USFX_L01Pawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\Galaga_USFX_L01Pawn.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/Galaga_USFX_L01Projectile.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/Galaga_USFX_L01Projectile.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\Galaga_USFX_L01Projectile.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/IImplementacion.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/IImplementacion.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\IImplementacion.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/Inventario.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/Inventario.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\Inventario.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemiga.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemiga.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemiga.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaCaza.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaCaza.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaCaza.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaCazaNieta01.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaCazaNieta01.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaCazaNieta01.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaCazaNieta02.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaCazaNieta02.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaCazaNieta02.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaEspia.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaEspia.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaEspia.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaEspiaNieta01.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaEspiaNieta01.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaEspiaNieta01.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaEspiaNieta02.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaEspiaNieta02.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaEspiaNieta02.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaKamikaze.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaKamikaze.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaKamikaze.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaKamikazeNieta01.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaKamikazeNieta01.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaKamikazeNieta01.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaKamikazeNieta02.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaKamikazeNieta02.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaKamikazeNieta02.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaNodriza.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaNodriza.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaNodriza.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaNodrizaNieta01.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaNodrizaNieta01.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaNodrizaNieta01.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaNodrizaNieta02.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaNodrizaNieta02.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaNodrizaNieta02.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaReabastecimiento.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaReabastecimiento.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaReabastecimiento.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaReabastecimientoN01.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaReabastecimientoN01.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaReabastecimientoN01.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaReabastecimientoN02.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaReabastecimientoN02.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaReabastecimientoN02.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaTransporte.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaTransporte.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaTransporte.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaTransporteNieta01.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaTransporteNieta01.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaTransporteNieta01.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/NaveEnemigaTransporteNieta02.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/NaveEnemigaTransporteNieta02.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaTransporteNieta02.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/Record.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/Record.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\Record.generated.h
+D:/Users/Predator/Desktop/Pruebas/Galaga_USFX_L01-master/Intermediate/Build/Win64/UE4Editor/Inc/Galaga_USFX_L01/Vidas.gen.cpp
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01/Vidas.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\Vidas.generated.h

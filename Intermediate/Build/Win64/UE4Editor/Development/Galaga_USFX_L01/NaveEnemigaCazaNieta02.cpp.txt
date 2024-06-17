@@ -1,0 +1,7 @@
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_L01\Definitions.Galaga_USFX_L01.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01\NaveEnemigaCazaNieta02.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01\NaveEnemigaCaza.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Source\Galaga_USFX_L01\NaveEnemiga.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemiga.generated.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaCaza.generated.h
+D:\Users\Predator\Desktop\Pruebas\Galaga_USFX_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_L01\NaveEnemigaCazaNieta02.generated.h
